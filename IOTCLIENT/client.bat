@@ -1,0 +1,1 @@
+java -classpath "C:\Users\youcef\Documents\IOTCLIENT\bin" GatewaySimulator
